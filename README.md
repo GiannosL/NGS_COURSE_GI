@@ -31,3 +31,9 @@ Teaching material for Genotype Imputation lecture in NGS course.
     * [J. Marchini software](https://jmarchini.org/software/)
     * [Paper](SupplementaryMaterial/Impute5_paper.pdf)
     * [Manual](SupplementaryMaterial/Impute5_manual.pdf)
+
+## Human genome references
+1. **HapMap3**
+    * [Welcome Sanger Institute](https://www.sanger.ac.uk/resources/downloads/human/hapmap3.html)
+2. **1000 Genomes project**
+    * [Paper](https://www.nature.com/articles/nmeth.1974)
