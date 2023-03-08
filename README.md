@@ -25,9 +25,7 @@ Teaching material for Genotype Imputation lecture in NGS course.
 ## Tools
 1. Plink2
     * [Plink homepage](https://www.cog-genomics.org/plink/)
-2. Bcftools
-    * [Bcftools homepage](https://samtools.github.io/bcftools/bcftools.html)
-3. Impute5
+2. Impute5
     * [J. Marchini software](https://jmarchini.org/software/)
     * [Paper](SupplementaryMaterial/Impute5_paper.pdf)
     * [Manual](SupplementaryMaterial/Impute5_manual.pdf)
@@ -37,3 +35,8 @@ Teaching material for Genotype Imputation lecture in NGS course.
     * [Welcome Sanger Institute](https://www.sanger.ac.uk/resources/downloads/human/hapmap3.html)
 2. **1000 Genomes project**
     * [Paper](https://www.nature.com/articles/nmeth.1974)
+
+## In-class exercises
+1. [Data exploration](Exercises/exercise_1.md)
+2. [Data preparation](Exercises/exercise_2.md)
+3. [Imputation](Exercises/exercise_3.md)
