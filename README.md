@@ -29,4 +29,5 @@ Teaching material for Genotype Imputation lecture in NGS course.
     * [Bcftools homepage](https://samtools.github.io/bcftools/bcftools.html)
 3. Impute5
     * [J. Marchini software](https://jmarchini.org/software/)
+    * [Paper](SupplementaryMaterial/Impute5_paper.pdf)
     * [Manual](SupplementaryMaterial/Impute5_manual.pdf)
