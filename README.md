@@ -1,4 +1,4 @@
-# Genotype Imputation for NGS
+# Applied Bioinformatics / Next-Generation Sequencing / Genotype Imputation
 Teaching material for Genotype Imputation lecture in NGS course.
 
 ## Basic **BASH** commands
