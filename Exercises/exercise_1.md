@@ -13,4 +13,5 @@
 
 ### Paths
 VCF path: `/mnt/scratch_b/users/s/spirospapakostas/Giannos_AppBio/toy_datasets/filtering_data/input.vcf`
+
 Plink path: `/mnt/scratch_b/users/s/spirospapakostas/Giannos_AppBio/my_tools/plink1.90/plink`
