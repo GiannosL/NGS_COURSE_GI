@@ -12,3 +12,8 @@
 
 * Post-imputation checks:
     * Check how many SNPs are in the output files.
+
+### Paths
+Imputation files path: `/mnt/scratch_b/users/s/spirospapakostas/Giannos_AppBio/toy_datasets/imputation_data/*`
+
+Impute5 path: `/mnt/scratch_b/users/s/spirospapakostas/Giannos_AppBio/my_tools/impute5/impute5_v1.1.4/impute5_1.1.4_static`
