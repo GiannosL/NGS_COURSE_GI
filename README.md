@@ -40,3 +40,6 @@ Teaching material for Genotype Imputation lecture in NGS course.
 1. [Data exploration](Exercises/exercise_1.md)
 2. [Data preparation](Exercises/exercise_2.md)
 3. [Imputation](Exercises/exercise_3.md)
+
+### Post-class update
+The tools used during class as well as the input can be found [here](Exercises/Tools-Data/).
