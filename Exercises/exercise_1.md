@@ -11,4 +11,4 @@
 
 
 ### Paths
-VCF path: `/mnt/scratch_b/users/s/spirospapakostas/Giannos_AppBio/toy_datasets/filtering_data/input.vcf`
+VCF path: `/mnt/appbio_a/groups/appbio/G_Louloudis/input.vcf`
